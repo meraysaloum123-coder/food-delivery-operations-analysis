@@ -1,2 +1,24 @@
-# food-delivery-operations-analysis
-"Food Delivery Operations Data Analysis : Data cleaning, feature engineering, business intelligence questions, and operational performance visualizations
+# Food Delivery Logistics & Operational Performance Analysis
+
+مشروع تحليل متقدم لبيانات منصة توصيل طعام، يهدف إلى تشخيص الاختناقات التشغيلية، تقييم أداء المناديب والمطاعم، تحليل سلوك العملاء، وتقديم توصيات استراتيجية مدعومة بالبيانات لرفع كفاءة التوصيل وتجربة العملاء.
+
+## هيكل المشروع (Project Directory Structure)
+├── data/                  # ملفات البيانات الخام والمعالجة (CSV / Excel)
+├── charts/                # المجلد الذي يحتوي على الرسوم البيانية المُصدرة (12 رسماً بيانياً)
+├── scripts/               # كود معالجة البيانات وتحليل الأسئلة التشغيلية (Python)
+├── reports/               # التقرير الإداري بصيغة PDF ومخرجات التقارير التنفيذية
+├── README.md              # دليل المشروع وطريقة التشغيل
+└── requirements.txt       # المكتبات والتبعيّات المطلوبة للتشغيل
+
+## المتطلبات التقنية والمكتبات (Prerequisites & Libraries)
+يتطلب تشغيل السكربتات تثبيت بيئة Python (الإصدار 3.8 أو أحدث) مع المكتبات التالية:
+- pandas >= 2.0.0
+- numpy >= 1.24.0
+- matplotlib >= 3.7.0
+- seaborn >= 0.12.0
+- streamlit >= 1.25.0
+- fpdf2 >= 2.7.0
+
+يمكنك تثبيت جميع المكتبات دفعة واحدة باستخدام الأمر التالي:
+```bash
+pip install -r requirements.txt

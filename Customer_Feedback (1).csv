@@ -1,0 +1,751 @@
+﻿FeedbackID,OrderID,DeliveryRating,FoodRating,IssueCategory,Comment
+FB-30001,ORD-20522,1,4,Late Delivery,Driver didn't call upon arrival.
+FB-30002,ORD-20738,2,2,Late Delivery,The food package was crushed.
+FB-30003,ORD-20741,1,2,Cold Food,Received the wrong food items.
+FB-30004,ORD-20661,1,4,Cold Food,Some items were missing from my order.
+FB-30005,ORD-20412,1,1,Cold Food,Some items were missing from my order.
+FB-30006,ORD-20679,2,2,Late Delivery,The food package was crushed.
+FB-30007,ORD-20627,2,1,Cold Food,Quality was not up to expectations.
+FB-30008,ORD-20514,4,4,None,"Excellent driver, very polite."
+FB-30009,ORD-20860,1,4,Late Delivery,The food package was crushed.
+FB-30010,ORD-20137,3,2,Late Delivery,Driver was rude and lost the address.
+FB-30011,ORD-20812,3,4,Cold Food,Some items were missing from my order.
+FB-30012,ORD-20077,4,4,None,Quick delivery and good packaging.
+FB-30013,ORD-20637,1,2,Cold Food,Restaurant took too long to prepare.
+FB-30014,ORD-20974,2,1,Late Delivery,Very slow delivery service.
+FB-30015,ORD-20939,1,3,Cold Food,Some items were missing from my order.
+FB-30016,ORD-20900,2,1,Cold Food,Some items were missing from my order.
+FB-30017,ORD-20281,1,2,Cold Food,Quality was not up to expectations.
+FB-30018,ORD-20884,1,2,Cold Food,Restaurant took too long to prepare.
+FB-30019,ORD-20762,4,5,None,Food arrived hot and fresh. Loved it!
+FB-30020,ORD-20320,2,2,Late Delivery,Order took way too long to arrive.
+FB-30021,ORD-20550,1,1,Late Delivery,Order took way too long to arrive.
+FB-30022,ORD-20175,2,1,Driver Attitude,The food package was crushed.
+FB-30023,ORD-20372,1,3,Late Delivery,Order took way too long to arrive.
+FB-30024,ORD-20528,4,3,Driver Attitude,Order took way too long to arrive.
+FB-30025,ORD-20211,3,3,Cold Food,Some items were missing from my order.
+FB-30026,ORD-20236,4,4,None,"Perfect order, everything was correct."
+FB-30027,ORD-20102,2,2,Late Delivery,The food package was crushed.
+FB-30028,ORD-20987,1,1,Cold Food,Received the wrong food items.
+FB-30029,ORD-20903,2,2,Late Delivery,The food package was crushed.
+FB-30030,ORD-20948,2,2,Cold Food,Quality was not up to expectations.
+FB-30031,ORD-20347,1,1,Late Delivery,Order took way too long to arrive.
+FB-30032,ORD-20140,1,2,Missing Items,Driver didn't call upon arrival.
+FB-30033,ORD-20622,1,2,Late Delivery,Driver didn't call upon arrival.
+FB-30034,ORD-20500,1,1,Late Delivery,The food package was crushed.
+FB-30035,ORD-20371,1,3,Late Delivery,Order took way too long to arrive.
+FB-30036,ORD-20199,1,2,Cold Food,Quality was not up to expectations.
+FB-30037,ORD-20688,1,3,Cold Food,Some items were missing from my order.
+FB-30038,ORD-20585,1,2,Cold Food,Food was cold when it arrived.
+FB-30039,ORD-20902,4,5,None,Great service and fast delivery!
+FB-30040,ORD-20060,5,5,None,"Excellent driver, very polite."
+FB-30041,ORD-20329,1,1,Late Delivery,Driver was rude and lost the address.
+FB-30042,ORD-20097,4,3,Driver Attitude,Order took way too long to arrive.
+FB-30043,ORD-20313,1,1,Cold Food,Quality was not up to expectations.
+FB-30044,ORD-20975,1,2,Driver Attitude,Order took way too long to arrive.
+FB-30045,ORD-20300,1,4,Late Delivery,Order took way too long to arrive.
+FB-30046,ORD-20278,3,2,Late Delivery,Driver didn't call upon arrival.
+FB-30047,ORD-20925,4,5,None,Food arrived hot and fresh. Loved it!
+FB-30048,ORD-20602,1,1,Missing Items,Very slow delivery service.
+FB-30049,ORD-20440,1,2,Late Delivery,Driver didn't call upon arrival.
+FB-30050,ORD-20838,1,2,Driver Attitude,Order took way too long to arrive.
+FB-30051,ORD-20571,1,2,Cold Food,Restaurant took too long to prepare.
+FB-30052,ORD-20880,3,2,Cold Food,Received the wrong food items.
+FB-30053,ORD-20262,5,5,None,Quick delivery and good packaging.
+FB-30054,ORD-20579,1,1,Late Delivery,Driver was rude and lost the address.
+FB-30055,ORD-20024,2,2,Late Delivery,Order took way too long to arrive.
+FB-30056,ORD-20031,1,2,Cold Food,Received the wrong food items.
+FB-30057,ORD-20618,1,1,Cold Food,Food was cold when it arrived.
+FB-30058,ORD-20011,1,1,Late Delivery,Very slow delivery service.
+FB-30059,ORD-20222,2,3,Late Delivery,Order took way too long to arrive.
+FB-30060,ORD-20821,1,3,Cold Food,Received the wrong food items.
+FB-30061,ORD-20297,3,2,Late Delivery,Very slow delivery service.
+FB-30062,ORD-20055,1,1,Cold Food,Quality was not up to expectations.
+FB-30063,ORD-20543,1,1,Late Delivery,The food package was crushed.
+FB-30064,ORD-20210,2,1,Missing Items,Driver was rude and lost the address.
+FB-30065,ORD-20605,1,2,Late Delivery,Order took way too long to arrive.
+FB-30066,ORD-20693,1,1,Cold Food,Restaurant took too long to prepare.
+FB-30067,ORD-20663,1,2,Cold Food,Received the wrong food items.
+FB-30068,ORD-20867,2,2,Cold Food,Received the wrong food items.
+FB-30069,ORD-20071,1,1,Cold Food,Restaurant took too long to prepare.
+FB-30070,ORD-20544,4,3,Missing Items,Some items were missing from my order.
+FB-30071,ORD-20108,1,2,Late Delivery,Order took way too long to arrive.
+FB-30072,ORD-20494,1,3,Late Delivery,Very slow delivery service.
+FB-30073,ORD-20591,1,2,Late Delivery,Very slow delivery service.
+FB-30074,ORD-20742,3,4,Late Delivery,The food package was crushed.
+FB-30075,ORD-20293,2,4,Late Delivery,Order took way too long to arrive.
+FB-30076,ORD-20290,2,2,Cold Food,Food was cold when it arrived.
+FB-30077,ORD-20653,1,2,Cold Food,Food was cold when it arrived.
+FB-30078,ORD-20040,4,4,None,Great service and fast delivery!
+FB-30079,ORD-20590,1,3,Driver Attitude,Driver was rude and lost the address.
+FB-30080,ORD-20308,2,4,Cold Food,Received the wrong food items.
+FB-30081,ORD-20680,1,2,Cold Food,Food was cold when it arrived.
+FB-30082,ORD-20067,1,3,Late Delivery,Driver didn't call upon arrival.
+FB-30083,ORD-20276,1,2,Cold Food,Food was cold when it arrived.
+FB-30084,ORD-20068,2,1,Late Delivery,Order took way too long to arrive.
+FB-30085,ORD-20319,2,1,Cold Food,Quality was not up to expectations.
+FB-30086,ORD-20549,3,1,Cold Food,Some items were missing from my order.
+FB-30087,ORD-20999,1,2,Late Delivery,Order took way too long to arrive.
+FB-30088,ORD-20715,1,4,Cold Food,Some items were missing from my order.
+FB-30089,ORD-20754,3,1,Cold Food,Received the wrong food items.
+FB-30090,ORD-20328,1,2,Late Delivery,Very slow delivery service.
+FB-30091,ORD-20383,1,2,Cold Food,Restaurant took too long to prepare.
+FB-30092,ORD-20452,4,4,None,"Excellent driver, very polite."
+FB-30093,ORD-20523,2,3,Late Delivery,Driver was rude and lost the address.
+FB-30094,ORD-20219,2,2,Late Delivery,The food package was crushed.
+FB-30095,ORD-20788,1,1,Late Delivery,Driver was rude and lost the address.
+FB-30096,ORD-20437,3,3,Late Delivery,Very slow delivery service.
+FB-30097,ORD-20765,1,1,Late Delivery,Driver was rude and lost the address.
+FB-30098,ORD-20089,1,1,Late Delivery,Driver didn't call upon arrival.
+FB-30099,ORD-20064,4,3,Missing Items,Restaurant took too long to prepare.
+FB-30100,ORD-20827,4,4,None,Quick delivery and good packaging.
+FB-30101,ORD-20717,2,1,Cold Food,Food was cold when it arrived.
+FB-30102,ORD-20352,1,1,Late Delivery,Order took way too long to arrive.
+FB-30103,ORD-20937,1,4,Late Delivery,Very slow delivery service.
+FB-30104,ORD-20257,1,3,Late Delivery,Very slow delivery service.
+FB-30105,ORD-20636,1,2,Late Delivery,Driver was rude and lost the address.
+FB-30106,ORD-20645,2,2,Cold Food,Quality was not up to expectations.
+FB-30107,ORD-20555,1,2,Cold Food,Food was cold when it arrived.
+FB-30108,ORD-20960,2,2,Cold Food,Some items were missing from my order.
+FB-30109,ORD-20169,1,2,Driver Attitude,Very slow delivery service.
+FB-30110,ORD-20918,2,2,Cold Food,Food was cold when it arrived.
+FB-30111,ORD-20529,1,2,Late Delivery,Very slow delivery service.
+FB-30112,ORD-20824,4,3,Driver Attitude,The food package was crushed.
+FB-30113,ORD-20986,1,1,Late Delivery,Driver was rude and lost the address.
+FB-30114,ORD-20817,1,2,Late Delivery,Order took way too long to arrive.
+FB-30115,ORD-20087,2,2,Cold Food,Some items were missing from my order.
+FB-30116,ORD-20433,1,1,Late Delivery,Very slow delivery service.
+FB-30117,ORD-20185,5,4,None,"Excellent driver, very polite."
+FB-30118,ORD-20979,3,3,Late Delivery,Driver didn't call upon arrival.
+FB-30119,ORD-20535,1,1,Late Delivery,The food package was crushed.
+FB-30120,ORD-20295,3,2,Cold Food,Food was cold when it arrived.
+FB-30121,ORD-20893,2,2,Cold Food,Restaurant took too long to prepare.
+FB-30122,ORD-20426,1,2,Driver Attitude,Order took way too long to arrive.
+FB-30123,ORD-20714,1,2,Late Delivery,Very slow delivery service.
+FB-30124,ORD-20261,2,2,Late Delivery,The food package was crushed.
+FB-30125,ORD-20238,4,4,None,Great service and fast delivery!
+FB-30126,ORD-20560,2,2,Cold Food,Quality was not up to expectations.
+FB-30127,ORD-20584,4,5,None,"Perfect order, everything was correct."
+FB-30128,ORD-20446,1,2,Driver Attitude,Driver didn't call upon arrival.
+FB-30129,ORD-20868,2,2,Late Delivery,Driver didn't call upon arrival.
+FB-30130,ORD-20801,3,4,Cold Food,Some items were missing from my order.
+FB-30131,ORD-20600,4,5,None,"Excellent driver, very polite."
+FB-30132,ORD-20850,5,3,Damaged Packaging,Driver was rude and lost the address.
+FB-30133,ORD-20266,2,3,Cold Food,Restaurant took too long to prepare.
+FB-30134,ORD-20996,1,2,Late Delivery,Driver was rude and lost the address.
+FB-30135,ORD-20530,1,2,Cold Food,Received the wrong food items.
+FB-30136,ORD-20056,4,5,None,Quick delivery and good packaging.
+FB-30137,ORD-20121,4,3,Damaged Packaging,Very slow delivery service.
+FB-30138,ORD-20216,1,2,Driver Attitude,Driver didn't call upon arrival.
+FB-30139,ORD-20026,1,3,Cold Food,Some items were missing from my order.
+FB-30140,ORD-20073,4,4,None,"Perfect order, everything was correct."
+FB-30141,ORD-20045,1,1,Missing Items,Very slow delivery service.
+FB-30142,ORD-20248,1,1,Late Delivery,Order took way too long to arrive.
+FB-30143,ORD-20722,2,1,Late Delivery,Very slow delivery service.
+FB-30144,ORD-20282,1,3,Cold Food,Restaurant took too long to prepare.
+FB-30145,ORD-20894,3,4,Damaged Packaging,Driver didn't call upon arrival.
+FB-30146,ORD-20915,1,1,Late Delivery,The food package was crushed.
+FB-30147,ORD-20811,3,1,Late Delivery,Very slow delivery service.
+FB-30148,ORD-20245,1,1,Late Delivery,Order took way too long to arrive.
+FB-30149,ORD-20823,2,2,Cold Food,Food was cold when it arrived.
+FB-30150,ORD-20322,3,4,Cold Food,Quality was not up to expectations.
+FB-30151,ORD-20644,1,2,Cold Food,Quality was not up to expectations.
+FB-30152,ORD-20159,4,4,None,Quick delivery and good packaging.
+FB-30153,ORD-20978,4,4,None,Great service and fast delivery!
+FB-30154,ORD-20430,4,4,None,Great service and fast delivery!
+FB-30155,ORD-20942,1,2,Late Delivery,Very slow delivery service.
+FB-30156,ORD-20463,1,1,Late Delivery,Driver didn't call upon arrival.
+FB-30157,ORD-20310,3,4,Damaged Packaging,Order took way too long to arrive.
+FB-30158,ORD-20698,1,4,Cold Food,Received the wrong food items.
+FB-30159,ORD-20061,1,1,Late Delivery,Order took way too long to arrive.
+FB-30160,ORD-20885,1,3,Driver Attitude,Driver didn't call upon arrival.
+FB-30161,ORD-20596,5,4,None,"Excellent driver, very polite."
+FB-30162,ORD-20768,5,5,None,Food arrived hot and fresh. Loved it!
+FB-30163,ORD-20650,4,4,None,"Perfect order, everything was correct."
+FB-30164,ORD-20651,1,3,Late Delivery,Driver didn't call upon arrival.
+FB-30165,ORD-20866,3,3,Damaged Packaging,Driver didn't call upon arrival.
+FB-30166,ORD-20669,5,5,None,"Excellent driver, very polite."
+FB-30167,ORD-20299,1,2,Cold Food,Food was cold when it arrived.
+FB-30168,ORD-20690,3,2,Cold Food,Food was cold when it arrived.
+FB-30169,ORD-20315,2,2,Cold Food,Some items were missing from my order.
+FB-30170,ORD-20311,1,2,Late Delivery,The food package was crushed.
+FB-30171,ORD-20362,4,5,None,Quick delivery and good packaging.
+FB-30172,ORD-20480,4,5,None,Great service and fast delivery!
+FB-30173,ORD-20111,2,2,Late Delivery,Driver didn't call upon arrival.
+FB-30174,ORD-20990,2,3,Late Delivery,Very slow delivery service.
+FB-30175,ORD-20487,3,2,Cold Food,Received the wrong food items.
+FB-30176,ORD-20364,1,3,Late Delivery,Order took way too long to arrive.
+FB-30177,ORD-20255,2,2,Late Delivery,Driver was rude and lost the address.
+FB-30178,ORD-20260,3,4,Cold Food,Some items were missing from my order.
+FB-30179,ORD-20803,3,2,Cold Food,Quality was not up to expectations.
+FB-30180,ORD-20678,1,4,Late Delivery,Driver was rude and lost the address.
+FB-30181,ORD-20495,1,2,Cold Food,Received the wrong food items.
+FB-30182,ORD-20671,1,1,Late Delivery,The food package was crushed.
+FB-30183,ORD-20378,1,2,Cold Food,Quality was not up to expectations.
+FB-30184,ORD-20527,1,3,Late Delivery,The food package was crushed.
+FB-30185,ORD-20846,2,1,Cold Food,Received the wrong food items.
+FB-30186,ORD-20138,1,1,Cold Food,Some items were missing from my order.
+FB-30187,ORD-20356,1,1,Late Delivery,Driver didn't call upon arrival.
+FB-30188,ORD-20366,1,1,Cold Food,Food was cold when it arrived.
+FB-30189,ORD-20943,2,2,Late Delivery,Driver was rude and lost the address.
+FB-30190,ORD-20750,2,2,Driver Attitude,The food package was crushed.
+FB-30191,ORD-20949,3,4,Driver Attitude,Very slow delivery service.
+FB-30192,ORD-20830,2,3,Late Delivery,Very slow delivery service.
+FB-30193,ORD-20657,1,2,Cold Food,Some items were missing from my order.
+FB-30194,ORD-20200,5,4,None,Food arrived hot and fresh. Loved it!
+FB-30195,ORD-20214,5,4,None,"Excellent driver, very polite."
+FB-30196,ORD-20409,2,3,Cold Food,Received the wrong food items.
+FB-30197,ORD-20333,2,1,Cold Food,Received the wrong food items.
+FB-30198,ORD-20209,1,1,Late Delivery,Driver didn't call upon arrival.
+FB-30199,ORD-20614,1,2,Late Delivery,Driver was rude and lost the address.
+FB-30200,ORD-20079,4,4,None,"Perfect order, everything was correct."
+FB-30201,ORD-20030,4,5,None,"Excellent driver, very polite."
+FB-30202,ORD-20536,1,1,Driver Attitude,Driver was rude and lost the address.
+FB-30203,ORD-20696,2,2,Cold Food,Received the wrong food items.
+FB-30204,ORD-20558,4,4,None,Quick delivery and good packaging.
+FB-30205,ORD-20837,2,2,Cold Food,Received the wrong food items.
+FB-30206,ORD-20597,3,5,Damaged Packaging,Driver didn't call upon arrival.
+FB-30207,ORD-20166,4,4,None,Quick delivery and good packaging.
+FB-30208,ORD-20919,5,4,None,Great service and fast delivery!
+FB-30209,ORD-20496,1,2,Cold Food,Restaurant took too long to prepare.
+FB-30210,ORD-20825,3,1,Cold Food,Quality was not up to expectations.
+FB-30211,ORD-20066,3,5,Driver Attitude,Order took way too long to arrive.
+FB-30212,ORD-20142,1,3,Cold Food,Food was cold when it arrived.
+FB-30213,ORD-20926,2,2,Cold Food,Received the wrong food items.
+FB-30214,ORD-20828,2,1,Cold Food,Quality was not up to expectations.
+FB-30215,ORD-20656,1,2,Late Delivery,Very slow delivery service.
+FB-30216,ORD-20332,1,2,Cold Food,Restaurant took too long to prepare.
+FB-30217,ORD-20665,4,3,Damaged Packaging,The food package was crushed.
+FB-30218,ORD-20250,2,2,Cold Food,Some items were missing from my order.
+FB-30219,ORD-20908,2,2,Cold Food,Restaurant took too long to prepare.
+FB-30220,ORD-20709,2,1,Late Delivery,Driver didn't call upon arrival.
+FB-30221,ORD-20306,1,1,Late Delivery,The food package was crushed.
+FB-30222,ORD-20735,1,4,Cold Food,Quality was not up to expectations.
+FB-30223,ORD-20976,3,1,Cold Food,Received the wrong food items.
+FB-30224,ORD-20050,3,1,Late Delivery,Order took way too long to arrive.
+FB-30225,ORD-20897,2,2,Cold Food,Restaurant took too long to prepare.
+FB-30226,ORD-20003,1,3,Cold Food,Quality was not up to expectations.
+FB-30227,ORD-20545,1,1,Late Delivery,The food package was crushed.
+FB-30228,ORD-20351,2,2,Cold Food,Food was cold when it arrived.
+FB-30229,ORD-20905,3,2,Cold Food,Received the wrong food items.
+FB-30230,ORD-20537,2,2,Late Delivery,Order took way too long to arrive.
+FB-30231,ORD-20345,4,5,None,Food arrived hot and fresh. Loved it!
+FB-30232,ORD-20995,4,3,Missing Items,Received the wrong food items.
+FB-30233,ORD-20482,1,2,Late Delivery,Driver was rude and lost the address.
+FB-30234,ORD-20576,1,3,Late Delivery,Order took way too long to arrive.
+FB-30235,ORD-20034,2,3,Cold Food,Restaurant took too long to prepare.
+FB-30236,ORD-20032,1,2,Late Delivery,The food package was crushed.
+FB-30237,ORD-20232,2,1,Cold Food,Some items were missing from my order.
+FB-30238,ORD-20964,2,3,Late Delivery,Driver didn't call upon arrival.
+FB-30239,ORD-20193,4,5,None,Quick delivery and good packaging.
+FB-30240,ORD-20334,1,3,Late Delivery,Driver didn't call upon arrival.
+FB-30241,ORD-20004,1,3,Cold Food,Received the wrong food items.
+FB-30242,ORD-20205,2,2,Cold Food,Some items were missing from my order.
+FB-30243,ORD-20515,1,2,Late Delivery,Driver was rude and lost the address.
+FB-30244,ORD-20800,1,1,Late Delivery,Driver was rude and lost the address.
+FB-30245,ORD-20307,3,1,Late Delivery,Driver was rude and lost the address.
+FB-30246,ORD-20110,2,1,Cold Food,Received the wrong food items.
+FB-30247,ORD-20431,3,2,Cold Food,Restaurant took too long to prepare.
+FB-30248,ORD-20078,3,3,Cold Food,Food was cold when it arrived.
+FB-30249,ORD-20085,2,2,Cold Food,Received the wrong food items.
+FB-30250,ORD-20287,5,3,Driver Attitude,The food package was crushed.
+FB-30251,ORD-20083,1,1,Late Delivery,Driver was rude and lost the address.
+FB-30252,ORD-20992,2,1,Late Delivery,Order took way too long to arrive.
+FB-30253,ORD-20790,3,2,Cold Food,Restaurant took too long to prepare.
+FB-30254,ORD-20895,4,5,None,Food arrived hot and fresh. Loved it!
+FB-30255,ORD-20399,2,1,Late Delivery,The food package was crushed.
+FB-30256,ORD-20324,1,2,Late Delivery,Driver was rude and lost the address.
+FB-30257,ORD-20520,4,4,None,"Excellent driver, very polite."
+FB-30258,ORD-20917,4,4,None,Quick delivery and good packaging.
+FB-30259,ORD-20923,3,1,Late Delivery,Very slow delivery service.
+FB-30260,ORD-20006,1,4,Late Delivery,Driver didn't call upon arrival.
+FB-30261,ORD-20732,4,5,None,Quick delivery and good packaging.
+FB-30262,ORD-20466,1,2,Late Delivery,Very slow delivery service.
+FB-30263,ORD-20098,1,2,Cold Food,Quality was not up to expectations.
+FB-30264,ORD-20267,1,1,Driver Attitude,Order took way too long to arrive.
+FB-30265,ORD-20358,1,2,Late Delivery,The food package was crushed.
+FB-30266,ORD-20869,2,2,Cold Food,Restaurant took too long to prepare.
+FB-30267,ORD-20799,4,4,None,"Excellent driver, very polite."
+FB-30268,ORD-20381,1,3,Late Delivery,Driver was rude and lost the address.
+FB-30269,ORD-20632,4,4,None,Food arrived hot and fresh. Loved it!
+FB-30270,ORD-20382,1,3,Cold Food,Food was cold when it arrived.
+FB-30271,ORD-20491,4,4,None,"Excellent driver, very polite."
+FB-30272,ORD-20119,1,1,Cold Food,Some items were missing from my order.
+FB-30273,ORD-20901,1,1,Cold Food,Some items were missing from my order.
+FB-30274,ORD-20251,3,2,Late Delivery,The food package was crushed.
+FB-30275,ORD-20524,1,2,Late Delivery,Order took way too long to arrive.
+FB-30276,ORD-20010,2,1,Late Delivery,Very slow delivery service.
+FB-30277,ORD-20197,4,4,None,"Excellent driver, very polite."
+FB-30278,ORD-20604,3,4,Cold Food,Restaurant took too long to prepare.
+FB-30279,ORD-20082,1,2,Cold Food,Some items were missing from my order.
+FB-30280,ORD-20784,1,1,Late Delivery,Driver didn't call upon arrival.
+FB-30281,ORD-20588,3,2,Cold Food,Some items were missing from my order.
+FB-30282,ORD-20798,2,2,Driver Attitude,Driver was rude and lost the address.
+FB-30283,ORD-20240,2,2,Late Delivery,Very slow delivery service.
+FB-30284,ORD-20291,5,4,None,Great service and fast delivery!
+FB-30285,ORD-20212,1,1,Cold Food,Some items were missing from my order.
+FB-30286,ORD-20718,2,1,Cold Food,Received the wrong food items.
+FB-30287,ORD-20360,3,3,Late Delivery,Driver was rude and lost the address.
+FB-30288,ORD-20450,1,1,Cold Food,Some items were missing from my order.
+FB-30289,ORD-20228,2,1,Cold Food,Received the wrong food items.
+FB-30290,ORD-20951,1,1,Late Delivery,Driver didn't call upon arrival.
+FB-30291,ORD-20947,2,2,Cold Food,Some items were missing from my order.
+FB-30292,ORD-20797,2,3,Late Delivery,Driver was rude and lost the address.
+FB-30293,ORD-20502,2,2,Cold Food,Quality was not up to expectations.
+FB-30294,ORD-20465,4,4,None,"Perfect order, everything was correct."
+FB-30295,ORD-20363,4,4,None,"Excellent driver, very polite."
+FB-30296,ORD-20469,2,2,Late Delivery,Driver didn't call upon arrival.
+FB-30297,ORD-20936,4,3,Driver Attitude,Driver didn't call upon arrival.
+FB-30298,ORD-20429,1,2,Cold Food,Some items were missing from my order.
+FB-30299,ORD-20008,1,3,Late Delivery,Driver didn't call upon arrival.
+FB-30300,ORD-20156,1,1,Late Delivery,The food package was crushed.
+FB-30301,ORD-20542,1,2,Late Delivery,The food package was crushed.
+FB-30302,ORD-20441,4,4,None,Food arrived hot and fresh. Loved it!
+FB-30303,ORD-20483,1,4,Cold Food,Restaurant took too long to prepare.
+FB-30304,ORD-20423,1,1,Late Delivery,Very slow delivery service.
+FB-30305,ORD-20779,4,5,None,Great service and fast delivery!
+FB-30306,ORD-20950,1,2,Cold Food,Food was cold when it arrived.
+FB-30307,ORD-20335,2,1,Late Delivery,Order took way too long to arrive.
+FB-30308,ORD-20577,1,2,Missing Items,Order took way too long to arrive.
+FB-30309,ORD-20935,1,3,Late Delivery,Very slow delivery service.
+FB-30310,ORD-20568,5,4,None,Food arrived hot and fresh. Loved it!
+FB-30311,ORD-20595,1,2,Late Delivery,The food package was crushed.
+FB-30312,ORD-20531,3,3,Late Delivery,Order took way too long to arrive.
+FB-30313,ORD-20582,1,2,Cold Food,Received the wrong food items.
+FB-30314,ORD-20708,2,3,Late Delivery,Driver didn't call upon arrival.
+FB-30315,ORD-20449,2,3,Late Delivery,Driver was rude and lost the address.
+FB-30316,ORD-20454,1,1,Missing Items,Order took way too long to arrive.
+FB-30317,ORD-20229,3,1,Cold Food,Food was cold when it arrived.
+FB-30318,ORD-20353,1,2,Cold Food,Restaurant took too long to prepare.
+FB-30319,ORD-20729,2,1,Cold Food,Some items were missing from my order.
+FB-30320,ORD-20213,1,3,Late Delivery,Very slow delivery service.
+FB-30321,ORD-20080,2,2,Cold Food,Food was cold when it arrived.
+FB-30322,ORD-20149,5,4,None,Quick delivery and good packaging.
+FB-30323,ORD-20303,1,1,Late Delivery,The food package was crushed.
+FB-30324,ORD-20629,1,3,Cold Food,Food was cold when it arrived.
+FB-30325,ORD-20778,2,2,Late Delivery,Driver was rude and lost the address.
+FB-30326,ORD-20507,2,2,Cold Food,Some items were missing from my order.
+FB-30327,ORD-20343,1,3,Cold Food,Received the wrong food items.
+FB-30328,ORD-20486,5,4,None,"Excellent driver, very polite."
+FB-30329,ORD-20712,1,1,Late Delivery,Order took way too long to arrive.
+FB-30330,ORD-20134,1,2,Late Delivery,Very slow delivery service.
+FB-30331,ORD-20704,3,5,Damaged Packaging,Very slow delivery service.
+FB-30332,ORD-20312,2,1,Late Delivery,Driver didn't call upon arrival.
+FB-30333,ORD-20723,1,1,Cold Food,Some items were missing from my order.
+FB-30334,ORD-20630,1,1,Late Delivery,Driver didn't call upon arrival.
+FB-30335,ORD-20001,3,2,Late Delivery,Order took way too long to arrive.
+FB-30336,ORD-20317,2,1,Cold Food,Restaurant took too long to prepare.
+FB-30337,ORD-20707,5,4,None,"Excellent driver, very polite."
+FB-30338,ORD-20548,3,4,Late Delivery,Very slow delivery service.
+FB-30339,ORD-20873,4,4,None,"Perfect order, everything was correct."
+FB-30340,ORD-20533,2,2,Late Delivery,Driver was rude and lost the address.
+FB-30341,ORD-20478,1,2,Late Delivery,Order took way too long to arrive.
+FB-30342,ORD-20405,2,3,Late Delivery,Driver didn't call upon arrival.
+FB-30343,ORD-20173,2,1,Late Delivery,The food package was crushed.
+FB-30344,ORD-20126,2,2,Late Delivery,Driver was rude and lost the address.
+FB-30345,ORD-20395,2,2,Late Delivery,The food package was crushed.
+FB-30346,ORD-20421,2,1,Late Delivery,Order took way too long to arrive.
+FB-30347,ORD-20553,4,4,None,Food arrived hot and fresh. Loved it!
+FB-30348,ORD-20904,1,2,Late Delivery,Very slow delivery service.
+FB-30349,ORD-20091,1,1,Missing Items,Very slow delivery service.
+FB-30350,ORD-20940,1,2,Late Delivery,Driver didn't call upon arrival.
+FB-30351,ORD-20182,2,1,Cold Food,Received the wrong food items.
+FB-30352,ORD-20275,2,2,Cold Food,Restaurant took too long to prepare.
+FB-30353,ORD-20896,1,2,Late Delivery,Driver didn't call upon arrival.
+FB-30354,ORD-20070,5,4,None,"Perfect order, everything was correct."
+FB-30355,ORD-20292,3,2,Cold Food,Some items were missing from my order.
+FB-30356,ORD-20132,1,3,Late Delivery,The food package was crushed.
+FB-30357,ORD-20301,3,1,Late Delivery,The food package was crushed.
+FB-30358,ORD-20425,1,2,Late Delivery,Order took way too long to arrive.
+FB-30359,ORD-20327,3,1,Late Delivery,Very slow delivery service.
+FB-30360,ORD-20145,1,3,Cold Food,Food was cold when it arrived.
+FB-30361,ORD-20424,1,3,Cold Food,Received the wrong food items.
+FB-30362,ORD-20581,1,4,Cold Food,Quality was not up to expectations.
+FB-30363,ORD-20136,4,5,None,Quick delivery and good packaging.
+FB-30364,ORD-20451,1,1,Cold Food,Received the wrong food items.
+FB-30365,ORD-20165,3,5,Missing Items,Some items were missing from my order.
+FB-30366,ORD-20029,4,4,None,"Excellent driver, very polite."
+FB-30367,ORD-20774,1,1,Driver Attitude,Driver was rude and lost the address.
+FB-30368,ORD-20194,1,3,Cold Food,Quality was not up to expectations.
+FB-30369,ORD-20389,1,3,Cold Food,Quality was not up to expectations.
+FB-30370,ORD-20853,1,2,Driver Attitude,Order took way too long to arrive.
+FB-30371,ORD-20170,2,3,Cold Food,Food was cold when it arrived.
+FB-30372,ORD-20706,4,4,None,Food arrived hot and fresh. Loved it!
+FB-30373,ORD-20141,5,3,Damaged Packaging,Very slow delivery service.
+FB-30374,ORD-20174,2,1,Late Delivery,Very slow delivery service.
+FB-30375,ORD-20007,4,4,None,"Excellent driver, very polite."
+FB-30376,ORD-20746,1,1,Cold Food,Some items were missing from my order.
+FB-30377,ORD-20479,3,2,Late Delivery,Order took way too long to arrive.
+FB-30378,ORD-20074,1,3,Late Delivery,The food package was crushed.
+FB-30379,ORD-20911,1,1,Cold Food,Quality was not up to expectations.
+FB-30380,ORD-20814,2,1,Late Delivery,Very slow delivery service.
+FB-30381,ORD-20239,1,3,Late Delivery,Driver didn't call upon arrival.
+FB-30382,ORD-20146,2,2,Late Delivery,Driver didn't call upon arrival.
+FB-30383,ORD-20793,3,2,Cold Food,Some items were missing from my order.
+FB-30384,ORD-20235,1,1,Late Delivery,Very slow delivery service.
+FB-30385,ORD-20221,1,1,Driver Attitude,Very slow delivery service.
+FB-30386,ORD-20924,1,3,Late Delivery,The food package was crushed.
+FB-30387,ORD-20501,5,5,None,"Excellent driver, very polite."
+FB-30388,ORD-20133,2,1,Cold Food,Quality was not up to expectations.
+FB-30389,ORD-20991,3,4,Missing Items,Food was cold when it arrived.
+FB-30390,ORD-20775,1,2,Cold Food,Quality was not up to expectations.
+FB-30391,ORD-20186,1,2,Cold Food,Food was cold when it arrived.
+FB-30392,ORD-20042,1,2,Late Delivery,Driver didn't call upon arrival.
+FB-30393,ORD-20697,2,2,Cold Food,Restaurant took too long to prepare.
+FB-30394,ORD-20109,1,1,Missing Items,Driver was rude and lost the address.
+FB-30395,ORD-20589,1,2,Cold Food,Received the wrong food items.
+FB-30396,ORD-20057,2,3,Cold Food,Food was cold when it arrived.
+FB-30397,ORD-20406,1,2,Cold Food,Food was cold when it arrived.
+FB-30398,ORD-20443,1,4,Cold Food,Quality was not up to expectations.
+FB-30399,ORD-20758,2,2,Missing Items,Very slow delivery service.
+FB-30400,ORD-20998,1,2,Late Delivery,Driver didn't call upon arrival.
+FB-30401,ORD-20025,4,5,None,Food arrived hot and fresh. Loved it!
+FB-30402,ORD-20468,4,4,None,Food arrived hot and fresh. Loved it!
+FB-30403,ORD-20540,2,3,Cold Food,Some items were missing from my order.
+FB-30404,ORD-20532,1,1,Late Delivery,Driver didn't call upon arrival.
+FB-30405,ORD-20619,2,1,Cold Food,Food was cold when it arrived.
+FB-30406,ORD-20695,1,2,Cold Food,Quality was not up to expectations.
+FB-30407,ORD-20927,3,3,Cold Food,Quality was not up to expectations.
+FB-30408,ORD-20339,4,5,None,"Excellent driver, very polite."
+FB-30409,ORD-20052,3,2,Cold Food,Some items were missing from my order.
+FB-30410,ORD-20508,1,1,Cold Food,Some items were missing from my order.
+FB-30411,ORD-20517,1,3,Cold Food,Quality was not up to expectations.
+FB-30412,ORD-20921,1,3,Cold Food,Received the wrong food items.
+FB-30413,ORD-20782,3,2,Cold Food,Restaurant took too long to prepare.
+FB-30414,ORD-20265,2,2,Late Delivery,Very slow delivery service.
+FB-30415,ORD-20818,2,3,Cold Food,Restaurant took too long to prepare.
+FB-30416,ORD-20711,3,3,Missing Items,Quality was not up to expectations.
+FB-30417,ORD-20683,1,2,Late Delivery,Order took way too long to arrive.
+FB-30418,ORD-20833,2,1,Late Delivery,Driver was rude and lost the address.
+FB-30419,ORD-20519,2,2,Cold Food,Quality was not up to expectations.
+FB-30420,ORD-20448,4,3,Driver Attitude,Order took way too long to arrive.
+FB-30421,ORD-20019,2,2,Cold Food,Restaurant took too long to prepare.
+FB-30422,ORD-20716,4,5,None,Food arrived hot and fresh. Loved it!
+FB-30423,ORD-20484,2,2,Late Delivery,The food package was crushed.
+FB-30424,ORD-20569,1,2,Late Delivery,Driver didn't call upon arrival.
+FB-30425,ORD-20434,1,3,Late Delivery,The food package was crushed.
+FB-30426,ORD-20368,2,2,Cold Food,Some items were missing from my order.
+FB-30427,ORD-20084,1,4,Late Delivery,Driver didn't call upon arrival.
+FB-30428,ORD-20062,3,2,Cold Food,Quality was not up to expectations.
+FB-30429,ORD-20639,1,2,Late Delivery,Order took way too long to arrive.
+FB-30430,ORD-20273,5,4,None,Great service and fast delivery!
+FB-30431,ORD-20286,1,3,Missing Items,The food package was crushed.
+FB-30432,ORD-20361,2,2,Cold Food,Quality was not up to expectations.
+FB-30433,ORD-20355,1,3,Driver Attitude,The food package was crushed.
+FB-30434,ORD-20457,2,1,Missing Items,Driver didn't call upon arrival.
+FB-30435,ORD-20279,1,3,Late Delivery,Driver didn't call upon arrival.
+FB-30436,ORD-20013,1,2,Late Delivery,Order took way too long to arrive.
+FB-30437,ORD-20183,1,1,Late Delivery,The food package was crushed.
+FB-30438,ORD-20369,2,2,Late Delivery,Order took way too long to arrive.
+FB-30439,ORD-20882,2,3,Cold Food,Quality was not up to expectations.
+FB-30440,ORD-20616,2,1,Cold Food,Some items were missing from my order.
+FB-30441,ORD-20224,1,1,Cold Food,Restaurant took too long to prepare.
+FB-30442,ORD-20573,2,1,Late Delivery,Driver didn't call upon arrival.
+FB-30443,ORD-20971,1,1,Late Delivery,Very slow delivery service.
+FB-30444,ORD-20654,1,4,Cold Food,Received the wrong food items.
+FB-30445,ORD-20546,1,3,Missing Items,Driver didn't call upon arrival.
+FB-30446,ORD-20583,3,2,Late Delivery,The food package was crushed.
+FB-30447,ORD-20634,1,2,Cold Food,Restaurant took too long to prepare.
+FB-30448,ORD-20177,4,3,Missing Items,Some items were missing from my order.
+FB-30449,ORD-20666,4,5,None,"Perfect order, everything was correct."
+FB-30450,ORD-20674,4,5,None,Food arrived hot and fresh. Loved it!
+FB-30451,ORD-20586,2,4,Late Delivery,Driver was rude and lost the address.
+FB-30452,ORD-20874,4,4,None,Food arrived hot and fresh. Loved it!
+FB-30453,ORD-20394,2,2,Driver Attitude,Order took way too long to arrive.
+FB-30454,ORD-20164,2,2,Late Delivery,Driver didn't call upon arrival.
+FB-30455,ORD-20249,2,2,Cold Food,Quality was not up to expectations.
+FB-30456,ORD-20635,1,2,Late Delivery,Order took way too long to arrive.
+FB-30457,ORD-20886,3,4,Late Delivery,Order took way too long to arrive.
+FB-30458,ORD-20670,1,1,Late Delivery,Very slow delivery service.
+FB-30459,ORD-20376,1,2,Missing Items,The food package was crushed.
+FB-30460,ORD-20413,2,3,Late Delivery,The food package was crushed.
+FB-30461,ORD-20075,5,4,None,Great service and fast delivery!
+FB-30462,ORD-20114,1,2,Cold Food,Restaurant took too long to prepare.
+FB-30463,ORD-20599,1,2,Late Delivery,Order took way too long to arrive.
+FB-30464,ORD-20962,2,2,Cold Food,Some items were missing from my order.
+FB-30465,ORD-20391,2,1,Cold Food,Some items were missing from my order.
+FB-30466,ORD-20105,2,2,Late Delivery,Driver was rude and lost the address.
+FB-30467,ORD-20115,3,3,Cold Food,Restaurant took too long to prepare.
+FB-30468,ORD-20418,2,1,Late Delivery,Driver was rude and lost the address.
+FB-30469,ORD-20526,2,1,Cold Food,Received the wrong food items.
+FB-30470,ORD-20458,2,3,Cold Food,Quality was not up to expectations.
+FB-30471,ORD-20410,3,1,Late Delivery,The food package was crushed.
+FB-30472,ORD-20093,1,2,Cold Food,Food was cold when it arrived.
+FB-30473,ORD-20931,2,2,Cold Food,Restaurant took too long to prepare.
+FB-30474,ORD-20090,1,1,Cold Food,Restaurant took too long to prepare.
+FB-30475,ORD-20337,2,2,Cold Food,Received the wrong food items.
+FB-30476,ORD-20989,3,2,Cold Food,Some items were missing from my order.
+FB-30477,ORD-20922,4,5,None,Great service and fast delivery!
+FB-30478,ORD-20934,3,3,Cold Food,Received the wrong food items.
+FB-30479,ORD-20606,1,3,Late Delivery,Driver didn't call upon arrival.
+FB-30480,ORD-20594,1,1,Late Delivery,Driver was rude and lost the address.
+FB-30481,ORD-20612,4,3,Driver Attitude,Order took way too long to arrive.
+FB-30482,ORD-20095,1,2,Late Delivery,The food package was crushed.
+FB-30483,ORD-20012,1,2,Late Delivery,Very slow delivery service.
+FB-30484,ORD-20397,1,1,Cold Food,Some items were missing from my order.
+FB-30485,ORD-20534,1,4,Cold Food,Food was cold when it arrived.
+FB-30486,ORD-20044,1,3,Cold Food,Received the wrong food items.
+FB-30487,ORD-20043,2,2,Late Delivery,Driver was rude and lost the address.
+FB-30488,ORD-20330,2,1,Late Delivery,Driver was rude and lost the address.
+FB-30489,ORD-20168,1,1,Cold Food,Some items were missing from my order.
+FB-30490,ORD-20498,1,2,Missing Items,Driver didn't call upon arrival.
+FB-30491,ORD-20877,2,2,Cold Food,Received the wrong food items.
+FB-30492,ORD-20598,1,2,Late Delivery,Order took way too long to arrive.
+FB-30493,ORD-20757,4,3,Missing Items,Restaurant took too long to prepare.
+FB-30494,ORD-20101,2,2,Late Delivery,Order took way too long to arrive.
+FB-30495,ORD-20427,5,3,Driver Attitude,The food package was crushed.
+FB-30496,ORD-20179,2,2,Cold Food,Restaurant took too long to prepare.
+FB-30497,ORD-20445,4,4,None,Great service and fast delivery!
+FB-30498,ORD-20417,2,2,Late Delivery,The food package was crushed.
+FB-30499,ORD-20871,4,5,None,"Perfect order, everything was correct."
+FB-30500,ORD-20883,1,1,Late Delivery,Very slow delivery service.
+FB-30501,ORD-20681,1,2,Missing Items,Driver was rude and lost the address.
+FB-30502,ORD-20178,2,1,Cold Food,Received the wrong food items.
+FB-30503,ORD-20396,1,1,Cold Food,Some items were missing from my order.
+FB-30504,ORD-20912,1,4,Late Delivery,Very slow delivery service.
+FB-30505,ORD-20794,1,2,Cold Food,Restaurant took too long to prepare.
+FB-30506,ORD-20961,1,2,Late Delivery,Driver was rude and lost the address.
+FB-30507,ORD-20685,1,2,Cold Food,Quality was not up to expectations.
+FB-30508,ORD-20384,1,2,Cold Food,Received the wrong food items.
+FB-30509,ORD-20957,3,1,Cold Food,Received the wrong food items.
+FB-30510,ORD-20752,1,3,Late Delivery,Order took way too long to arrive.
+FB-30511,ORD-20258,2,1,Cold Food,Some items were missing from my order.
+FB-30512,ORD-20539,2,3,Late Delivery,Very slow delivery service.
+FB-30513,ORD-20336,2,3,Cold Food,Quality was not up to expectations.
+FB-30514,ORD-20016,1,1,Cold Food,Food was cold when it arrived.
+FB-30515,ORD-20325,1,4,Late Delivery,Order took way too long to arrive.
+FB-30516,ORD-20759,1,2,Late Delivery,Driver was rude and lost the address.
+FB-30517,ORD-20223,2,2,Late Delivery,The food package was crushed.
+FB-30518,ORD-20180,2,2,Cold Food,Some items were missing from my order.
+FB-30519,ORD-20984,2,2,Cold Food,Some items were missing from my order.
+FB-30520,ORD-20023,4,5,None,Food arrived hot and fresh. Loved it!
+FB-30521,ORD-20357,5,5,None,Quick delivery and good packaging.
+FB-30522,ORD-20667,2,2,Late Delivery,Driver was rude and lost the address.
+FB-30523,ORD-20862,1,1,Cold Food,Quality was not up to expectations.
+FB-30524,ORD-20341,1,3,Missing Items,Order took way too long to arrive.
+FB-30525,ORD-20432,1,2,Late Delivery,Order took way too long to arrive.
+FB-30526,ORD-20552,2,3,Late Delivery,Very slow delivery service.
+FB-30527,ORD-20834,2,2,Late Delivery,Driver didn't call upon arrival.
+FB-30528,ORD-20204,1,1,Cold Food,Quality was not up to expectations.
+FB-30529,ORD-20631,1,4,Cold Food,Quality was not up to expectations.
+FB-30530,ORD-20094,2,1,Late Delivery,Very slow delivery service.
+FB-30531,ORD-20559,1,1,Cold Food,Restaurant took too long to prepare.
+FB-30532,ORD-20069,1,2,Late Delivery,The food package was crushed.
+FB-30533,ORD-20623,1,2,Cold Food,Some items were missing from my order.
+FB-30534,ORD-20285,1,2,Cold Food,Restaurant took too long to prepare.
+FB-30535,ORD-20845,2,1,Late Delivery,The food package was crushed.
+FB-30536,ORD-20435,4,4,None,Quick delivery and good packaging.
+FB-30537,ORD-20154,1,1,Cold Food,Quality was not up to expectations.
+FB-30538,ORD-20076,4,5,None,Great service and fast delivery!
+FB-30539,ORD-20731,1,1,Late Delivery,Very slow delivery service.
+FB-30540,ORD-20447,2,3,Cold Food,Restaurant took too long to prepare.
+FB-30541,ORD-20189,3,2,Late Delivery,The food package was crushed.
+FB-30542,ORD-20272,1,1,Missing Items,Driver didn't call upon arrival.
+FB-30543,ORD-20237,4,3,Missing Items,Some items were missing from my order.
+FB-30544,ORD-20488,4,4,None,"Perfect order, everything was correct."
+FB-30545,ORD-20118,2,1,Late Delivery,Driver didn't call upon arrival.
+FB-30546,ORD-20944,1,1,Cold Food,Restaurant took too long to prepare.
+FB-30547,ORD-20513,3,3,Late Delivery,Very slow delivery service.
+FB-30548,ORD-20826,1,1,Late Delivery,Driver didn't call upon arrival.
+FB-30549,ORD-20592,2,1,Cold Food,Quality was not up to expectations.
+FB-30550,ORD-20127,2,1,Missing Items,The food package was crushed.
+FB-30551,ORD-20117,4,4,None,Food arrived hot and fresh. Loved it!
+FB-30552,ORD-20474,5,5,None,Great service and fast delivery!
+FB-30553,ORD-20694,4,5,None,Great service and fast delivery!
+FB-30554,ORD-20058,2,2,Late Delivery,Order took way too long to arrive.
+FB-30555,ORD-20864,5,4,None,Quick delivery and good packaging.
+FB-30556,ORD-20913,5,5,None,Food arrived hot and fresh. Loved it!
+FB-30557,ORD-20370,1,2,Late Delivery,Order took way too long to arrive.
+FB-30558,ORD-20269,1,2,Late Delivery,Driver didn't call upon arrival.
+FB-30559,ORD-20047,2,2,Late Delivery,Driver didn't call upon arrival.
+FB-30560,ORD-20350,4,5,None,Great service and fast delivery!
+FB-30561,ORD-20196,1,1,Cold Food,Food was cold when it arrived.
+FB-30562,ORD-21000,3,3,Cold Food,Quality was not up to expectations.
+FB-30563,ORD-20835,4,5,None,"Excellent driver, very polite."
+FB-30564,ORD-20737,1,1,Late Delivery,Driver didn't call upon arrival.
+FB-30565,ORD-20264,2,3,Cold Food,Some items were missing from my order.
+FB-30566,ORD-20444,1,1,Cold Food,Food was cold when it arrived.
+FB-30567,ORD-20676,4,5,None,Great service and fast delivery!
+FB-30568,ORD-20305,3,2,Late Delivery,Order took way too long to arrive.
+FB-30569,ORD-20342,1,1,Late Delivery,Order took way too long to arrive.
+FB-30570,ORD-20967,3,2,Late Delivery,Driver was rude and lost the address.
+FB-30571,ORD-20150,1,1,Late Delivery,Driver was rude and lost the address.
+FB-30572,ORD-20125,2,2,Late Delivery,Very slow delivery service.
+FB-30573,ORD-20787,1,1,Late Delivery,Driver was rude and lost the address.
+FB-30574,ORD-20051,1,2,Late Delivery,Very slow delivery service.
+FB-30575,ORD-20354,1,1,Cold Food,Quality was not up to expectations.
+FB-30576,ORD-20928,1,1,Cold Food,Food was cold when it arrived.
+FB-30577,ORD-20143,1,1,Missing Items,Order took way too long to arrive.
+FB-30578,ORD-20471,1,2,Late Delivery,Driver didn't call upon arrival.
+FB-30579,ORD-20400,1,4,Cold Food,Quality was not up to expectations.
+FB-30580,ORD-20626,1,2,Cold Food,Received the wrong food items.
+FB-30581,ORD-20321,1,2,Late Delivery,Driver was rude and lost the address.
+FB-30582,ORD-20020,1,2,Cold Food,Received the wrong food items.
+FB-30583,ORD-20810,3,2,Late Delivery,Very slow delivery service.
+FB-30584,ORD-20791,2,2,Late Delivery,Order took way too long to arrive.
+FB-30585,ORD-20809,2,1,Late Delivery,Driver didn't call upon arrival.
+FB-30586,ORD-20408,1,2,Late Delivery,Driver didn't call upon arrival.
+FB-30587,ORD-20538,1,2,Cold Food,Food was cold when it arrived.
+FB-30588,ORD-20621,2,3,Driver Attitude,Driver was rude and lost the address.
+FB-30589,ORD-20039,1,1,Late Delivery,The food package was crushed.
+FB-30590,ORD-20176,1,2,Late Delivery,Order took way too long to arrive.
+FB-30591,ORD-20246,4,4,None,Food arrived hot and fresh. Loved it!
+FB-30592,ORD-20829,2,3,Missing Items,Order took way too long to arrive.
+FB-30593,ORD-20668,3,2,Late Delivery,The food package was crushed.
+FB-30594,ORD-20755,2,2,Late Delivery,Driver didn't call upon arrival.
+FB-30595,ORD-20859,1,2,Cold Food,Quality was not up to expectations.
+FB-30596,ORD-20155,5,4,None,Food arrived hot and fresh. Loved it!
+FB-30597,ORD-20288,1,2,Cold Food,Restaurant took too long to prepare.
+FB-30598,ORD-20603,1,1,Cold Food,Food was cold when it arrived.
+FB-30599,ORD-20570,1,2,Late Delivery,Very slow delivery service.
+FB-30600,ORD-20744,2,3,Late Delivery,Driver was rude and lost the address.
+FB-30601,ORD-20018,2,2,Cold Food,Some items were missing from my order.
+FB-30602,ORD-20128,1,2,Driver Attitude,Order took way too long to arrive.
+FB-30603,ORD-20323,2,1,Cold Food,Restaurant took too long to prepare.
+FB-30604,ORD-20256,5,3,Damaged Packaging,Very slow delivery service.
+FB-30605,ORD-20658,2,2,Cold Food,Food was cold when it arrived.
+FB-30606,ORD-20965,4,4,None,Quick delivery and good packaging.
+FB-30607,ORD-20191,1,3,Late Delivery,The food package was crushed.
+FB-30608,ORD-20116,5,4,None,Great service and fast delivery!
+FB-30609,ORD-20617,1,2,Cold Food,Received the wrong food items.
+FB-30610,ORD-20607,2,4,Cold Food,Received the wrong food items.
+FB-30611,ORD-20181,2,4,Late Delivery,Order took way too long to arrive.
+FB-30612,ORD-20302,4,3,Missing Items,Restaurant took too long to prepare.
+FB-30613,ORD-20760,2,2,Cold Food,Restaurant took too long to prepare.
+FB-30614,ORD-20713,2,4,Late Delivery,Driver didn't call upon arrival.
+FB-30615,ORD-20724,1,3,Cold Food,Received the wrong food items.
+FB-30616,ORD-20686,1,2,Cold Food,Food was cold when it arrived.
+FB-30617,ORD-20980,1,4,Cold Food,Some items were missing from my order.
+FB-30618,ORD-20518,1,3,Cold Food,Received the wrong food items.
+FB-30619,ORD-20985,1,3,Cold Food,Food was cold when it arrived.
+FB-30620,ORD-20046,1,2,Cold Food,Food was cold when it arrived.
+FB-30621,ORD-20910,2,2,Cold Food,Restaurant took too long to prepare.
+FB-30622,ORD-20158,1,1,Cold Food,Quality was not up to expectations.
+FB-30623,ORD-20852,4,4,None,Food arrived hot and fresh. Loved it!
+FB-30624,ORD-20172,1,3,Cold Food,Food was cold when it arrived.
+FB-30625,ORD-20017,2,1,Late Delivery,Very slow delivery service.
+FB-30626,ORD-20512,1,1,Cold Food,Received the wrong food items.
+FB-30627,ORD-20049,1,2,Late Delivery,The food package was crushed.
+FB-30628,ORD-20972,4,5,None,Food arrived hot and fresh. Loved it!
+FB-30629,ORD-20941,2,2,Cold Food,Restaurant took too long to prepare.
+FB-30630,ORD-20516,1,2,Cold Food,Food was cold when it arrived.
+FB-30631,ORD-20953,1,4,Late Delivery,The food package was crushed.
+FB-30632,ORD-20481,2,1,Late Delivery,The food package was crushed.
+FB-30633,ORD-20284,1,4,Cold Food,Food was cold when it arrived.
+FB-30634,ORD-20719,1,1,Late Delivery,Very slow delivery service.
+FB-30635,ORD-20878,1,1,Cold Food,Food was cold when it arrived.
+FB-30636,ORD-20226,2,1,Cold Food,Quality was not up to expectations.
+FB-30637,ORD-20027,2,1,Cold Food,Food was cold when it arrived.
+FB-30638,ORD-20955,2,1,Cold Food,Some items were missing from my order.
+FB-30639,ORD-20438,1,1,Cold Food,Food was cold when it arrived.
+FB-30640,ORD-20952,2,2,Cold Food,Received the wrong food items.
+FB-30641,ORD-20365,5,4,None,Quick delivery and good packaging.
+FB-30642,ORD-20230,1,4,Late Delivery,Order took way too long to arrive.
+FB-30643,ORD-20038,1,1,Cold Food,Some items were missing from my order.
+FB-30644,ORD-20966,1,2,Missing Items,Driver didn't call upon arrival.
+FB-30645,ORD-20375,2,1,Cold Food,Received the wrong food items.
+FB-30646,ORD-20470,3,2,Cold Food,Some items were missing from my order.
+FB-30647,ORD-20968,2,2,Cold Food,Received the wrong food items.
+FB-30648,ORD-20851,3,2,Cold Food,Received the wrong food items.
+FB-30649,ORD-20705,1,2,Late Delivery,The food package was crushed.
+FB-30650,ORD-20842,1,3,Late Delivery,The food package was crushed.
+FB-30651,ORD-20195,1,2,Late Delivery,Very slow delivery service.
+FB-30652,ORD-20855,1,2,Late Delivery,Driver was rude and lost the address.
+FB-30653,ORD-20865,1,2,Cold Food,Some items were missing from my order.
+FB-30654,ORD-20504,1,3,Late Delivery,The food package was crushed.
+FB-30655,ORD-20970,1,4,Late Delivery,Very slow delivery service.
+FB-30656,ORD-20831,1,1,Late Delivery,Very slow delivery service.
+FB-30657,ORD-20580,2,2,Cold Food,Received the wrong food items.
+FB-30658,ORD-20969,3,3,Cold Food,Food was cold when it arrived.
+FB-30659,ORD-20163,1,4,Late Delivery,Driver didn't call upon arrival.
+FB-30660,ORD-20909,4,3,Driver Attitude,The food package was crushed.
+FB-30661,ORD-20153,1,1,Late Delivery,The food package was crushed.
+FB-30662,ORD-20802,2,3,Cold Food,Some items were missing from my order.
+FB-30663,ORD-20994,1,3,Late Delivery,Very slow delivery service.
+FB-30664,ORD-20756,3,3,Cold Food,Received the wrong food items.
+FB-30665,ORD-20112,2,4,Cold Food,Quality was not up to expectations.
+FB-30666,ORD-20227,1,2,Cold Food,Received the wrong food items.
+FB-30667,ORD-20689,3,2,Cold Food,Restaurant took too long to prepare.
+FB-30668,ORD-20104,1,1,Late Delivery,Driver didn't call upon arrival.
+FB-30669,ORD-20422,1,4,Late Delivery,Driver was rude and lost the address.
+FB-30670,ORD-20420,2,2,Cold Food,Food was cold when it arrived.
+FB-30671,ORD-20751,5,4,None,"Excellent driver, very polite."
+FB-30672,ORD-20587,4,4,None,Food arrived hot and fresh. Loved it!
+FB-30673,ORD-20781,4,5,None,Quick delivery and good packaging.
+FB-30674,ORD-20673,2,1,Cold Food,Quality was not up to expectations.
+FB-30675,ORD-20120,3,1,Cold Food,Received the wrong food items.
+FB-30676,ORD-20054,2,2,Cold Food,Restaurant took too long to prepare.
+FB-30677,ORD-20152,4,4,None,Quick delivery and good packaging.
+FB-30678,ORD-20404,3,3,Late Delivery,Order took way too long to arrive.
+FB-30679,ORD-20946,5,5,None,Food arrived hot and fresh. Loved it!
+FB-30680,ORD-20208,2,3,Late Delivery,The food package was crushed.
+FB-30681,ORD-20659,4,4,None,Quick delivery and good packaging.
+FB-30682,ORD-20844,1,1,Late Delivery,The food package was crushed.
+FB-30683,ORD-20763,1,1,Cold Food,Some items were missing from my order.
+FB-30684,ORD-20009,3,1,Late Delivery,The food package was crushed.
+FB-30685,ORD-20808,3,3,Late Delivery,Order took way too long to arrive.
+FB-30686,ORD-20037,2,4,Cold Food,Food was cold when it arrived.
+FB-30687,ORD-20453,4,5,None,Quick delivery and good packaging.
+FB-30688,ORD-20652,2,2,Cold Food,Restaurant took too long to prepare.
+FB-30689,ORD-20254,2,1,Cold Food,Food was cold when it arrived.
+FB-30690,ORD-20304,4,4,None,Great service and fast delivery!
+FB-30691,ORD-20747,5,4,None,Great service and fast delivery!
+FB-30692,ORD-20572,1,3,Cold Food,Received the wrong food items.
+FB-30693,ORD-20624,3,3,Late Delivery,Driver didn't call upon arrival.
+FB-30694,ORD-20733,4,5,None,"Perfect order, everything was correct."
+FB-30695,ORD-20892,5,4,None,Quick delivery and good packaging.
+FB-30696,ORD-20263,2,4,Cold Food,Restaurant took too long to prepare.
+FB-30697,ORD-20611,2,1,Cold Food,Restaurant took too long to prepare.
+FB-30698,ORD-20298,2,1,Late Delivery,Order took way too long to arrive.
+FB-30699,ORD-20415,3,2,Late Delivery,Driver was rude and lost the address.
+FB-30700,ORD-20151,3,2,Late Delivery,Very slow delivery service.
+FB-30701,ORD-20789,3,2,Late Delivery,Order took way too long to arrive.
+FB-30702,ORD-20641,1,1,Cold Food,Restaurant took too long to prepare.
+FB-30703,ORD-20890,1,2,Late Delivery,The food package was crushed.
+FB-30704,ORD-20551,1,2,Cold Food,Quality was not up to expectations.
+FB-30705,ORD-20887,1,2,Cold Food,Quality was not up to expectations.
+FB-30706,ORD-20489,3,2,Late Delivery,Order took way too long to arrive.
+FB-30707,ORD-20148,2,2,Cold Food,Food was cold when it arrived.
+FB-30708,ORD-20147,1,1,Cold Food,Some items were missing from my order.
+FB-30709,ORD-20721,3,1,Cold Food,Food was cold when it arrived.
+FB-30710,ORD-20932,1,2,Late Delivery,The food package was crushed.
+FB-30711,ORD-20740,1,2,Late Delivery,Driver didn't call upon arrival.
+FB-30712,ORD-20660,2,3,Late Delivery,The food package was crushed.
+FB-30713,ORD-20349,5,4,None,"Perfect order, everything was correct."
+FB-30714,ORD-20464,1,1,Cold Food,Received the wrong food items.
+FB-30715,ORD-20326,1,1,Cold Food,Restaurant took too long to prepare.
+FB-30716,ORD-20187,4,5,None,"Perfect order, everything was correct."
+FB-30717,ORD-20124,4,4,None,Great service and fast delivery!
+FB-30718,ORD-20854,1,2,Cold Food,Received the wrong food items.
+FB-30719,ORD-20609,4,3,Damaged Packaging,Order took way too long to arrive.
+FB-30720,ORD-20144,1,3,Cold Food,Restaurant took too long to prepare.
+FB-30721,ORD-20959,5,5,None,Great service and fast delivery!
+FB-30722,ORD-20198,2,4,Cold Food,Restaurant took too long to prepare.
+FB-30723,ORD-20610,1,2,Late Delivery,Driver didn't call upon arrival.
+FB-30724,ORD-20280,2,1,Missing Items,Driver was rude and lost the address.
+FB-30725,ORD-20294,4,4,None,Quick delivery and good packaging.
+FB-30726,ORD-20401,4,4,None,Quick delivery and good packaging.
+FB-30727,ORD-20123,4,3,Driver Attitude,The food package was crushed.
+FB-30728,ORD-20184,1,4,Late Delivery,Driver didn't call upon arrival.
+FB-30729,ORD-20203,2,2,Late Delivery,Driver didn't call upon arrival.
+FB-30730,ORD-20439,1,2,Cold Food,Food was cold when it arrived.
+FB-30731,ORD-20247,4,5,None,Quick delivery and good packaging.
+FB-30732,ORD-20416,2,3,Late Delivery,The food package was crushed.
+FB-30733,ORD-20933,2,1,Late Delivery,Order took way too long to arrive.
+FB-30734,ORD-20766,1,1,Late Delivery,Driver didn't call upon arrival.
+FB-30735,ORD-20907,1,4,Cold Food,Food was cold when it arrived.
+FB-30736,ORD-20836,1,2,Cold Food,Food was cold when it arrived.
+FB-30737,ORD-20888,1,2,Late Delivery,Driver was rude and lost the address.
+FB-30738,ORD-20130,4,4,None,Great service and fast delivery!
+FB-30739,ORD-20638,1,3,Cold Food,Quality was not up to expectations.
+FB-30740,ORD-20403,5,5,None,Quick delivery and good packaging.
+FB-30741,ORD-20785,2,3,Late Delivery,The food package was crushed.
+FB-30742,ORD-20771,2,2,Late Delivery,Very slow delivery service.
+FB-30743,ORD-20736,1,2,Missing Items,Very slow delivery service.
+FB-30744,ORD-20914,1,1,Late Delivery,Order took way too long to arrive.
+FB-30745,ORD-20220,3,2,Cold Food,Quality was not up to expectations.
+FB-30746,ORD-20642,1,1,Driver Attitude,The food package was crushed.
+FB-30747,ORD-20916,4,4,None,"Perfect order, everything was correct."
+FB-30748,ORD-20753,2,3,Cold Food,Quality was not up to expectations.
+FB-30749,ORD-20807,1,1,Late Delivery,Driver didn't call upon arrival.
+FB-30750,ORD-20920,3,1,Cold Food,Received the wrong food items.
